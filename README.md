@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saif1474
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML
-- - 📫 You can contact me on Skype (ID: saifi1474)
+- 📫 You can contact me on Skype (ID: saifi1474)
 <!-- - 💞️ I’m looking to collaborate on ... -->
  
 
